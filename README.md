@@ -8,7 +8,7 @@ CONTENIDO
 
 /scripts/   Código R utilizado en el TFG
 
-/datos/     Conjuntos de datos derivados (csvs limpios)
+/datos/     Conjuntos de datos derivados (csv's limpios)
 
 Los microdatos brutos de la Estadística de Variaciones 
 Residenciales y de la Encuesta de Población Activa no se 
