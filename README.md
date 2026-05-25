@@ -7,6 +7,7 @@ Pelayo Anaya Somalo
 CONTENIDO
 
 /scripts/   Código R utilizado en el TFG
+
 /datos/     Conjuntos de datos derivados (panel CCAA-año y tablas)
 
 Los microdatos brutos de la Estadística de Variaciones 
