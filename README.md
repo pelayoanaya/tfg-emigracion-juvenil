@@ -1,19 +1,18 @@
 # tfg-emigracion-juvenil
-tfg-emigracion-juvenil/
-├── README.md
-└──scripts/
-   ├── 01_limpieza_emigracion.R
-   ├── 02_limpieza_poblacion.R
-   ├── 03_limpieza_parados.R
-   ├── 04_limpieza_activos.R
-   ├── 05_limpieza_ipv.R
-   ├── 06_limpieza_salario.R
-   ├── 07_limpieza_ipc.R
-   ├── 08_merge_panel.R
-   ├── 09_panel_construction.R
-   ├── 10_descriptivos.R
-   ├── 11_modelo.R
-   ├── 12_mapas.R
-   ├── 13_explorar_dioc_2020.R
-   ├── 14_perfil_emigracion.R
-   └── 15_microdatos.R
+Materiales de replicabilidad
+TFG "Perfil y determinantes económicos de la emigración juvenil 
+en España tras la crisis del 2008"
+Pelayo Anaya Somalo — CUNEF Universidad — Junio 2026
+
+CONTENIDO
+
+/scripts/   Código R utilizado en el TFG
+/datos/     Conjuntos de datos derivados (panel CCAA-año y tablas)
+
+Los microdatos brutos de la Estadística de Variaciones 
+Residenciales y de la Encuesta de Población Activa no se 
+redistribuyen en respeto a las condiciones de uso del INE. 
+Están disponibles gratuitamente en www.ine.es. Los scripts 
+detallan los filtros y rutas aplicados para su reproducción.
+
+Contacto: pelayo.anaya@cunef.edu
