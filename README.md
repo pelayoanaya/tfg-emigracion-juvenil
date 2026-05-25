@@ -2,7 +2,7 @@
 Materiales de replicabilidad
 TFG "Perfil y determinantes económicos de la emigración juvenil 
 en España tras la crisis del 2008"
-Pelayo Anaya Somalo — CUNEF Universidad — Junio 2026
+Pelayo Anaya Somalo
 
 CONTENIDO
 
